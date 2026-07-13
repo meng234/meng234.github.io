@@ -1,5 +1,5 @@
 /**
- * MARVIS Consulting — main.js
+ * MARVIS Solutions — main.js
  * Handles: year update, navbar scroll shadow, scroll-reveal animations.
  */
 document.addEventListener('DOMContentLoaded', () => {
